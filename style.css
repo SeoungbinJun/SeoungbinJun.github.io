@@ -1,0 +1,36 @@
+.title {
+ background-color:#7FFFD4;
+ text-align:center;
+};
+
+.click{
+  background-color:brown;
+}
+
+p{
+  text-align:center;
+  color: :#7FFFD4;
+  font-size: 25px;
+}
+
+.writing{
+  font-size: 27px;
+  font: Courier;
+}
+
+a{
+  background: #7FFFD4;
+  border: 1px solid #7FFFD4;
+  border-radius: 3px;
+  color: black;
+  display: inline-block;
+  margin: 0 auto ;
+  padding: 14px;
+  text-decoration: none;
+  text-align: center;
+  width: 125px;
+  font-size: 20px;
+}
+.share{
+  text-align:center;
+}
