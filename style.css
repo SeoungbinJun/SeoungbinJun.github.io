@@ -1,5 +1,5 @@
 .title {
- background-color:#800080;
+ background-color:#add8e6;
  text-align:center;
 };
 
@@ -9,7 +9,7 @@
 
 p{
   text-align:center;
-  color: :#800080;
+  color: :#add8e6;
   font-size: 25px;
 }
 
@@ -19,8 +19,8 @@ p{
 }
 
 a{
-  background: #800080;
-  border: 1px solid #800080;
+  background: #add8e6;
+  border: 1px solid #add8e6;
   border-radius: 3px;
   color: black;
   display: inline-block;
